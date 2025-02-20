@@ -6,7 +6,7 @@ This is a simple tech quiz app built with the MERN stack. The goal of this appli
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <[your-repo-url](https://github.com/Carlosdpastrana/quiz-test-module19.git)>
    ```
 
 2. Navigate to the project folder:
